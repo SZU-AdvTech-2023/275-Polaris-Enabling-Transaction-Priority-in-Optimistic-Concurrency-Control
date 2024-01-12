@@ -1,0 +1,7 @@
+@article{REPO275,
+    author = "Ye, Chenhao and Hwang, Wuh-Chwen and Chen, Keren and Yu, Xiangyao",
+    journal = "Proceedings of the ACM on Management of Data",
+    pages = "1--24",
+    title = "{Polaris: Enabling Transaction Priority in Optimistic Concurrency Control}",
+    year = "2023"
+}
