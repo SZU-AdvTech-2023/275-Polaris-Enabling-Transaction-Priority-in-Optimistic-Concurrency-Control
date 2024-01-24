@@ -1,0 +1,17 @@
+**.o
+**.d
+**.out
+**.swp
+**.swo
+run_exp.sh
+outputs/*.json
+config.h
+rundb
+cmake-build-debug
+.DS_STORE
+.idea/*
+perf*
+row_stats.csv
+linux/
+results/
+*.pdf

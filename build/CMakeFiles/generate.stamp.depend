@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+D:/VirtualStudio/app/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+D:/polaris/polaris-main/CMakeLists.txt
+D:/polaris/polaris-main/build/CMakeFiles/3.26.4-msvc4/CMakeCCompiler.cmake
+D:/polaris/polaris-main/build/CMakeFiles/3.26.4-msvc4/CMakeCXXCompiler.cmake
+D:/polaris/polaris-main/build/CMakeFiles/3.26.4-msvc4/CMakeRCCompiler.cmake
+D:/polaris/polaris-main/build/CMakeFiles/3.26.4-msvc4/CMakeSystem.cmake

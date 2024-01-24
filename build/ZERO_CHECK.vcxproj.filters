@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\polaris\polaris-main\build\CMakeFiles\7a36be692ea1a03d14c304585d328499\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{09DA5960-8E70-31D4-B38D-C93CDFB291FE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
